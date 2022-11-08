@@ -1,5 +1,4 @@
-/** YouTube part 1: https://youtu.be/X9xbyRV9F7Q
- *  YouTube part 2: https://youtu.be/hg_M2rFnYSQ
+/** YouTube: https://youtu.be/9P6tpL6yKIo
  *  Goals:
  *  1. Add an animation loop
  *  2. Add "rain" ovals to the ArrayList rain based on mouse clicks
